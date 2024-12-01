@@ -704,7 +704,6 @@ address {
 .modal-form {
   display: flex;
   flex-direction: column;
-  margin-bottom: 16px;
 }
 
 .modal-form-field {
@@ -775,10 +774,6 @@ address {
 
 .comment-textarea:focus {
   border-color: #4d5ae5;
-}
-
-.form-checkbox {
-  margin-bottom: 24px;
 }
 
 .label-checkbox {
